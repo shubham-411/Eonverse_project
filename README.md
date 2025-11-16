@@ -16,8 +16,14 @@ Zero backend — runs entirely client-side
 
 # Tech Stack
 Component	Technology
+
 Frontend/UI	Streamlit
+
 AI Model	Google Gemini Gemini-2.5-Flash
+
 Backend	Python
+
 Data Handling	JSON
+
 Environment Management	.env + Google API Key
+
